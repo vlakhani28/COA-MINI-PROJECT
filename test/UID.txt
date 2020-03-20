@@ -1,0 +1,5 @@
+Card UID : B2 D8 B0 2D
+Key UID : B9 68 1F B9
+
+TAG ID  : 185 104 31 185 0
+Card ID : 178 216 176 45 0
